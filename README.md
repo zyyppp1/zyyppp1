@@ -1,16 +1,123 @@
-## Hi there 👋
-
-<!--
-**zyyppp1/zyyppp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-11-10T11:27:36.304Z",
+  "profile": {
+    "title": "Joey - Yepeng",
+    "subtitle": "A passionate developer",
+    "currentWork": "",
+    "currentLearn": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "joey.yepeng@gmail.com",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://yepengzhu.com/",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/1WZ6e5LVyyOYKwNuNQmSvgpZunmUKJ_DY/view"
+  },
+  "social": {
+    "github": "zyyppp1",
+    "dev": "",
+    "linkedin": "Yepeng",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "Yepeng",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "amplify",
+    "anaconda",
+    "aws",
+    "bash",
+    "bootstrap",
+    "css3",
+    "django",
+    "docker",
+    "express",
+    "fastapi",
+    "flask",
+    "git",
+    "go",
+    "graphql",
+    "html5",
+    "javascript",
+    "jupyter",
+    "kubernetes",
+    "linux",
+    "mariadb",
+    "matlab",
+    "mongodb",
+    "mysql",
+    "nextjs",
+    "nginx",
+    "nodejs",
+    "openresty",
+    "php",
+    "postgresql",
+    "postman",
+    "python",
+    "react",
+    "redis",
+    "sass",
+    "selenium",
+    "sqlite",
+    "typescript"
+  ]
+}
