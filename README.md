@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyyppp1" alt="zyyppp1" /></a> </p>
 
-- 📫 How to reach me **joey.yepeng@gmail.com**
+- 📫 How to reach me **me@yepengzhu.com**
 
 - 👨‍💻 All of my projects are available at **[https://yepengzhu.com/](https://yepengzhu.com/)**
 
