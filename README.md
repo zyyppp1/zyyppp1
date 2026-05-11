@@ -39,10 +39,3 @@ Specialising in serverless AWS infrastructure, distributed systems, and LLM-powe
 <img src="https://skillicons.dev/icons?i=py,ts,nodejs,aws,docker,postgres,redis,nextjs,fastapi,git&perline=10" />
 </p>
 
----
-
-<p>
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=zyyppp1&show_icons=true&hide_border=true&count_private=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyyppp1&layout=compact&hide_border=true" />
-</p>
