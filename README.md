@@ -1,26 +1,48 @@
-# Hi 👋, I'm Joey - Yepeng
+# Joey (Yepeng) Zhu
 
-### A passionate developer
+**Backend Engineer** — AWS Certified &nbsp;·&nbsp; MSc Advanced Computer Science
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyyppp1" alt="zyyppp1" /></a> </p>
+Specialising in serverless AWS infrastructure, distributed systems, and LLM-powered products — building production-ready APIs and real-time applications from concept to revenue.
 
-- 📫 How to reach me **me@yepengzhu.com**
+[📧 me@yepengzhu.com](mailto:me@yepengzhu.com) &nbsp;|&nbsp; [🌐 yepengzhu.com](https://yepengzhu.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yepeng-zhu-joey/) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/JoeyYepeng)
 
-- 👨‍💻 All of my projects are available at **[https://yepengzhu.com/](https://yepengzhu.com/)**
+---
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1WZ6e5LVyyOYKwNuNQmSvgpZunmUKJ_DY/view](https://drive.google.com/file/d/1WZ6e5LVyyOYKwNuNQmSvgpZunmUKJ_DY/view)**
+### Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://github.com/zyyppp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zyyppp1" height="30" width="40" /></a><a href="https://www.linkedin.com/in/yepeng-zhu-joey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yepeng" height="30" width="40" /></a><a href="https://leetcode.com/JoeyYepeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yepeng" height="30" width="40" /></a></p>
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🖥 Joey OS</h3>
+<p>Serverless web desktop on AWS — event-driven Lambda backend, real-time WebSocket chat via Telegram API, RAG LLM assistant grounded in DynamoDB.</p>
+<p><code>Next.js</code> &nbsp;<code>AWS Lambda</code> &nbsp;<code>Redis</code> &nbsp;<code>WebSockets</code></p>
+<a href="https://github.com/zyyppp1/Joey-OS">View Repo →</a>
+</td>
+<td width="33%" valign="top">
+<h3>📧 Zoho Mail AI</h3>
+<p>3-stage classification pipeline (rule → prompt → LLM) cutting API cost 60–70%; multi-provider LLM client supporting DeepSeek, Claude, OpenAI, Groq and Ollama.</p>
+<p><code>Python</code> &nbsp;<code>LLM</code> &nbsp;<code>OAuth2</code></p>
+</td>
+<td width="33%" valign="top">
+<h3>🤖 AI Code Guide</h3>
+<p>4-phase streaming AI coding mentor with dedicated Claude skill agents, multi-provider LLM gateway, and DynamoDB-backed session persistence.</p>
+<p><code>Next.js</code> &nbsp;<code>Claude API</code> &nbsp;<code>TypeScript</code> &nbsp;<code>DynamoDB</code></p>
+</td>
+</tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### Tech Stack
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,django,docker,express,fastapi,flask,git,go,graphql,html,js,kubernetes,linux,mongodb,mysql,nextjs,nginx,nodejs,php,postgres,postman,py,react,redis,sass,selenium,sqlite,ts&perline=15" />
+<img src="https://skillicons.dev/icons?i=py,ts,nodejs,aws,docker,postgres,redis,nextjs,fastapi,git&perline=10" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyyppp1&show_icons=true&locale=en&layout=compact" alt="zyyppp1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyyppp1&show_icons=true&locale=en" alt="zyyppp1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyyppp1&" alt="zyyppp1" /></p>
-
+<p>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=zyyppp1&show_icons=true&hide_border=true&count_private=true" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyyppp1&layout=compact&hide_border=true" />
+</p>
