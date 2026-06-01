@@ -24,9 +24,10 @@ Specialising in serverless AWS infrastructure, distributed systems, and LLM-powe
 <p><code>Python</code> &nbsp;<code>LLM</code> &nbsp;<code>OAuth2</code></p>
 </td>
 <td width="33%" valign="top">
-<h3>🤖 AI Code Guide</h3>
-<p>4-phase streaming AI coding mentor with dedicated Claude skill agents, multi-provider LLM gateway, and DynamoDB-backed session persistence.</p>
-<p><code>Next.js</code> &nbsp;<code>Claude API</code> &nbsp;<code>TypeScript</code> &nbsp;<code>DynamoDB</code></p>
+<h3>📄 AI Resume Editor</h3>
+<p>Tailors your resume to any job description via a RAG pipeline — embeds your experience into a vector DB, semantically retrieves the most relevant facts, and a LangChain multi-agent flow rewrites them + scores ATS coverage. <a href="https://ai-resume-editor.fly.dev/">Live demo →</a></p>
+<p><code>Python</code> &nbsp;<code>RAG</code> &nbsp;<code>ChromaDB</code> &nbsp;<code>LangChain</code> &nbsp;<code>Flask</code></p>
+<a href="https://github.com/zyyppp1/AiResumeEditer">View Repo →</a>
 </td>
 </tr>
 </table>
